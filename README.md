@@ -8,7 +8,7 @@ The Flow Governance Working Group (GWG) exists to set out the process and struct
 - Flow Foundation treasury spending (allocating Ecosystem Development Fund)
 - Flow Foundation & community management (nominating board members, appointing leadership)
 
-The GWG is responsible for facilitating FLIPs going to vote on Flow’s voting tool:  [https://cast.fyi/](https://cast.fyi/#/)
+The GWG is responsible for facilitating FLIPs going to vote on Flow’s voting tool: [cast](https://cast.fyi/#/)
 
 # Approach
 
