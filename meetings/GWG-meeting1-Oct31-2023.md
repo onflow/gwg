@@ -30,4 +30,4 @@
 
 **Links**
 
-Video recording of the meeting (link to be added)
+Video recording of the meeting - https://www.youtube.com/watch?v=SoU5EHLQE6w
