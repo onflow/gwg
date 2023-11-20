@@ -5,7 +5,7 @@
 ### Agenda
 
 1. Overview of Flow Governance Working Group - Processes and Communication
-2. Welcoming New Members with Introductions
+2. Welcoming new members with Introductions
 3. Highlights and Updates from the Previous Meeting
 4. Presentation of FLIPs Tracker
 5. Discussion on Node Selection Criteria
