@@ -10,4 +10,5 @@
 4. Presentation of [FLIPs Tracker](https://github.com/orgs/onflow/projects/37)
 5. Discussion on [Node Selection Criteria](https://github.com/onflow/gwg/blob/main/meetings/node_selection_criteria.md)
 6. Community Q&A/ other topics
-7. Next Steps
+7. Agreement on meeting frequency
+8. Next Steps
