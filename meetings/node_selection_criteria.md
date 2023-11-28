@@ -8,7 +8,7 @@ The following is a first draft of the criteria to allocate new node slots to any
 
 ### **PART I - Node operating experience**
 
-*Required criteria *****
+*Required criteria ****
 
 1. Have they submitted a question on discord, github, or forum? - Y/N
     - Yes - share links
