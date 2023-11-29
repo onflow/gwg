@@ -4,7 +4,7 @@
 
 **Attendees**:
 
-Austin Kline, Usopp C, Dongyo Kang, Flovatar, William Mougayar, Deniz, Brian Pistone, Pieter Bakhuijzen, Dia C, Hunter Dansbury, Morgan Page, Vishal Changrani, Kshitij Chaudhary, Jan Bernatik, Tom Haile, Andrea Muttoni, Josh Hannan, Alex Ni
+Alex Ni, Andrea Muttoni, Austin Kline, Brian Pistone, Deniz, Dia C, Dongyo Kang, Flovatar, Hunter Dansbury, Jan Bernatik, Josh Hannan, Kshitij Chaudhary, Morgan Page, Pieter Bakhuijzen, Tom Haile, Usopp C, Vishal Changrani, William Mougayar
 
 **Agenda**
 
