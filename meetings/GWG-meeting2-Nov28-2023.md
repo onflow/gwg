@@ -1,6 +1,6 @@
 # GWG Meeting No. 2
 
-**Time**: November 28, 2023 [Tuesday], 8-9.15 AM PST
+**Time**: November 28, 2023 [Tuesday], 8AM to 9:15 AM PST
 
 **Attendees**:
 
